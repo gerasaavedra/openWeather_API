@@ -1,4 +1,4 @@
-# app build in React using Open Weather API [https://openweathermap.org/]
+# app build in React using Open Weather API [(https://openweathermap.org/)]
 
 # Getting Started with Create React App
 
